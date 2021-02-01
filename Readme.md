@@ -7,12 +7,13 @@ No afecta al color negro y tampoco al blanco.
 Y estoy buscando forma de agregar variacion al color sin afectar al cuerpo completo de la imagen
 ## Uso:
 ### Instalacion:
-    Para instalar descarga o clona este repositiorio
+Para instalar descarga o clona este repositiorio
 ### Instrucciones:
 npm install para descargar dependencias
 Ahora para usar debes usar las siguiente sintaxis
+    ### *!Aviso: No esta probado con rutas absolutas* 
+    
     node @urlDelCambiarColor.js  @NombreDeLosArhivosAGenerar @cantidad @UrlDeLaImagenOriginal @CarpetaDeSalida
-## *!Aviso: No esta probado con rutas absolutas* 
 ## Proximas Versiones:
 - Aumentar Rango de Variacion
 - Añadir Apis para guardar todos los generados y para servir en web
