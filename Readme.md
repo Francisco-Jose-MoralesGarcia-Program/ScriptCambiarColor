@@ -9,11 +9,10 @@ Y estoy buscando forma de agregar variacion al color sin afectar al cuerpo compl
 ### Instalacion:
     Para instalar descarga o clona este repositiorio
 ### Instrucciones:
-    npm install para descargar dependencias
-    Ahora para usar debes usar las siguiente sintaxis
+npm install para descargar dependencias
+Ahora para usar debes usar las siguiente sintaxis
     node @urlDelCambiarColor.js  @NombreDeLosArhivosAGenerar @cantidad @UrlDeLaImagenOriginal @CarpetaDeSalida
 ## *!Aviso: No esta probado con rutas absolutas* 
-## Ejemplos:
 ## Proximas Versiones:
 - Aumentar Rango de Variacion
 - Añadir Apis para guardar todos los generados y para servir en web
