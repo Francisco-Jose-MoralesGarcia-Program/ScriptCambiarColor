@@ -9,7 +9,9 @@ Y estoy buscando forma de agregar variacion al color sin afectar al cuerpo compl
 ### Instalacion:
 Para instalar descarga o clona este repositiorio
 ### Instrucciones:
-npm install para descargar dependencias
+para descargar dependencias
+    
+    npm install
 Ahora para usar debes usar las siguiente sintaxis
     ### *!Aviso: No esta probado con rutas absolutas* 
     
