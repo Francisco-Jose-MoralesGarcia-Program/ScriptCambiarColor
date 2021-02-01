@@ -1,0 +1,24 @@
+{
+  "name": "cambiarcolor",
+  "version": "1.0.0",
+  "description": "Pequeño script para crear imagenes con variacion de tonos con jimp",
+  "main": "CambiarColor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FJMG",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "get-image-colors": "^4.0.0",
+    "get-image-pixels": "^1.0.1",
+    "get-pixels": "^3.3.2",
+    "get-rgba-palette": "^2.0.1",
+    "gm": "^1.23.1",
+    "jimp": "^0.16.1",
+    "path": "^0.12.7",
+    "replace-color": "^2.3.0"
+  },
+  "devDependencies": {}
+}
