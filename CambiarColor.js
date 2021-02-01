@@ -95,7 +95,6 @@ console.log(colors.red.underline('Iniciando Script de generacion de imagenes'));
 var parametros = process.argv.slice(2);
 var maximo = parametros[1];
 var name_fileExit = parametros[0];
-var timeStimaid = maximo * 1.66; 
 var ruta_archivo = parametros[2];
 var ruta_archivo_salida = parametros[3];
 if(name_fileExit , maximo ,   ruta_archivo , ruta_archivo_salida  == null)
